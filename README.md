@@ -20,7 +20,7 @@
 
 
 # Demonstration
-### List of Products, price and quantity. 
+List of Products, price and quantity. 
 
 ![list-products](./screenshots/screenshot1.PNG)
 
@@ -29,7 +29,7 @@
 
 
 
-### User will be asked to pick a product they want to purchase. User will enter the product ID and quantity that they want.
+User will be asked to pick a product they want to purchase. User will enter the product ID and quantity that they want.
 
 ![what-user-wants](./screenshots/screenshot3.PNG)
 
@@ -37,13 +37,13 @@
 
 
 
-### The price and total will come out once you have selected you quantity.
+The price and total will come out once you have selected you quantity.
 
 ![price-quantity](./screenshots/screenshot5.PNG)
 
 
 
-### If the user has entered an incorrect quantity and the store doesn't have enough in stock, then the customer will be told that there isn't sufficient stock that can be provided.
+If the user has entered an incorrect quantity and the store doesn't have enough in stock, then the customer will be told that there isn't sufficient stock that can be provided.
 
 ![incorrect-quantity](./screenshots/screenshot6.PNG)
 
