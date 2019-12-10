@@ -18,8 +18,9 @@
 2. You will be given a list of all available products with their price and stock quantity.
 3. The app will then take the customers orders and deplete from the stores supply.
 
-## Demonstration
-List of Products, price and quantity. 
+
+# Demonstration
+### List of Products, price and quantity. 
 
 ![screenshot 1](./screenshots/screenshot1.PNG)
 
@@ -28,7 +29,7 @@ List of Products, price and quantity.
 
 
 
-User will be asked to pick a product they want to purchase. User will enter the product ID and quantity that they want.
+### User will be asked to pick a product they want to purchase. User will enter the product ID and quantity that they want.
 
 ![screenshot 3](./screenshots/screenshot3.PNG)
 
@@ -36,13 +37,13 @@ User will be asked to pick a product they want to purchase. User will enter the 
 
 
 
-The price and total will come out once you have selected you quantity.
+### The price and total will come out once you have selected you quantity.
 
 ![screenshot 5](./screenshots/screenshot5.PNG)
 
 
 
-If the user has entered an incorrect quantity and the store doesn't have enough in stock, then the customer will be told that there isn't sufficient stock that can be provided.
+### If the user has entered an incorrect quantity and the store doesn't have enough in stock, then the customer will be told that there isn't sufficient stock that can be provided.
 
 ![screenshot 6](./screenshots/screenshot6.PNG)
 
