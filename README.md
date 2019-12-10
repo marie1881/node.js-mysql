@@ -22,29 +22,29 @@
 # Demonstration
 ### List of Products, price and quantity. 
 
-![screenshot 1](./screenshots/screenshot1.PNG)
+![list-products](./screenshots/screenshot1.PNG)
 
 
-![screenshot 2](./screenshots/screenshot2.PNG)
+![list-products-2](./screenshots/screenshot2.PNG)
 
 
 
 ### User will be asked to pick a product they want to purchase. User will enter the product ID and quantity that they want.
 
-![screenshot 3](./screenshots/screenshot3.PNG)
+![what-user-wants](./screenshots/screenshot3.PNG)
 
-![screenshot 4](./screenshots/screenshot4.PNG)
+![what-user-wants-2](./screenshots/screenshot4.PNG)
 
 
 
 ### The price and total will come out once you have selected you quantity.
 
-![screenshot 5](./screenshots/screenshot5.PNG)
+![price-quantity](./screenshots/screenshot5.PNG)
 
 
 
 ### If the user has entered an incorrect quantity and the store doesn't have enough in stock, then the customer will be told that there isn't sufficient stock that can be provided.
 
-![screenshot 6](./screenshots/screenshot6.PNG)
+![incorrect-quantity](./screenshots/screenshot6.PNG)
 
 
