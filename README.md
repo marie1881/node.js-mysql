@@ -26,7 +26,7 @@
 # Demonstration
 List of Products, price and quantity. 
 ![list-products](https://github.com/marie1881/node.js-mysql/blob/master/screenshots/Screenshot1.PNG)
-![list-products-2](./screenshots/screenshot2.PNG)
+![list-products-2](https://github.com/marie1881/node.js-mysql/blob/master/screenshots/Screenshot2.PNG)
 
 
 User will be asked to pick a product they want to purchase. User will enter the product ID and quantity that they want.
