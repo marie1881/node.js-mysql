@@ -14,11 +14,10 @@
 
 ### How to Start
 
-1. You start off by opening the terminal, and entering node bamazon.js (file name). 
+1. You start off by opening the terminal, and entering node bamazon.js.
+<!-- <img src="./screenshots/screenshot1.png"> -->
 
-<img src="./screenshots/screenshot1.png">
 
-![list-products](./screenshots/screenshot1.PNG)
 
 2. You will be given a list of all available products with their price and stock quantity.
 3. The app will then take the customers orders and deplete from the stores supply.
@@ -26,6 +25,7 @@
 
 # Demonstration
 List of Products, price and quantity. 
+![list-products](https://github.com/marie1881/node.js-mysql/blob/master/screenshots/screenshots/Screenshot1.PNG)
 ![list-products-2](./screenshots/screenshot2.PNG)
 
 
