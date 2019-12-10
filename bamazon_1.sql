@@ -1,5 +1,5 @@
-CREATE DATABASE Bamazon;
-USE Bamazon;
+CREATE DATABASE bamazon_1;
+USE bamazon_1;
 CREATE TABLE Products (ItemID int AUTO_INCREMENT, ProductName varchar(50) NOT NULL, DepartmentName varchar(50) NOT NULL, Price varchar(30) NOT NULL, StockQuantity int NOT NULL, PRIMARY KEY(ItemID) );
 describe Products; 
 select * from Products; 
