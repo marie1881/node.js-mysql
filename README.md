@@ -31,20 +31,20 @@ List of Products, price and quantity.
 
 User will be asked to pick a product they want to purchase. User will enter the product ID and quantity that they want.
 
-![what-user-wants](./screenshots/screenshot3.PNG)
+![what-user-wants](https://github.com/marie1881/node.js-mysql/blob/master/screenshots/Screenshot3.PNG)
 
-![what-user-wants-2](./screenshots/screenshot4.PNG)
+![what-user-wants-2](https://github.com/marie1881/node.js-mysql/blob/master/screenshots/Screenshot4.PNG)
 
 
 
 The price and total will come out once you have selected you quantity.
 
-![price-quantity](./screenshots/screenshot5.PNG)
+![price-quantity](https://github.com/marie1881/node.js-mysql/blob/master/screenshots/screenshot5.PNG)
 
 
 
 If the user has entered an incorrect quantity and the store doesn't have enough in stock, then the customer will be told that there isn't sufficient stock that can be provided.
 
-![incorrect-quantity](./screenshots/screenshot6.PNG)
+![incorrect-quantity](https://github.com/marie1881/node.js-mysql/blob/master/screenshots/screenshot6.PNG)
 
 
