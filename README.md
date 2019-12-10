@@ -25,7 +25,7 @@
 
 # Demonstration
 List of Products, price and quantity. 
-![list-products](https://github.com/marie1881/node.js-mysql/blob/master/screenshots/screenshots/Screenshot1.PNG)
+![list-products](https://github.com/marie1881/node.js-mysql/blob/master/screenshots/Screenshot1.PNG)
 ![list-products-2](./screenshots/screenshot2.PNG)
 
 
