@@ -15,6 +15,9 @@
 ### How to Start
 
 1. You start off by opening the terminal, and entering node bamazon.js (file name). 
+
+<img src="./screenshots/screenshot1.png">
+
 ![list-products](./screenshots/screenshot1.PNG)
 
 2. You will be given a list of all available products with their price and stock quantity.
