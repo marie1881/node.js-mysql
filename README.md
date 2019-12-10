@@ -15,35 +15,29 @@
 ### How to Start
 
 1. You start off by opening the terminal, and entering node bamazon.js.
-<!-- <img src="./screenshots/screenshot1.png"> -->
-
-
-
 2. You will be given a list of all available products with their price and stock quantity.
 3. The app will then take the customers orders and deplete from the stores supply.
 
 
 # Demonstration
-List of Products, price and quantity. 
+1. List of Products, price and quantity. 
+
 ![list-products](https://github.com/marie1881/node.js-mysql/blob/master/screenshots/Screenshot1.PNG)
 ![list-products-2](https://github.com/marie1881/node.js-mysql/blob/master/screenshots/Screenshot2.PNG)
 
-
-User will be asked to pick a product they want to purchase. User will enter the product ID and quantity that they want.
+2. User will be asked to pick a product they want to purchase. User will then enter the product ID and quantity that they want.
 
 ![what-user-wants](https://github.com/marie1881/node.js-mysql/blob/master/screenshots/Screenshot3.PNG)
 
 ![what-user-wants-2](https://github.com/marie1881/node.js-mysql/blob/master/screenshots/Screenshot4.PNG)
 
 
-
-The price and total will come out once you have selected you quantity.
+3. The price and total will come out once you have selected you quantity.
 
 ![price-quantity](https://github.com/marie1881/node.js-mysql/blob/master/screenshots/Screenshot5.PNG)
 
 
-
-If the user has entered an incorrect quantity and the store doesn't have enough in stock, then the customer will be told that there isn't sufficient stock that can be provided.
+4. If the user has entered an incorrect quantity and the store doesn't have enough in stock, then the customer will be told that there isn't sufficient stock that can be provided.
 
 ![incorrect-quantity](https://github.com/marie1881/node.js-mysql/blob/master/screenshots/Screenshot6.PNG)
 
